@@ -1,6 +1,6 @@
-﻿# FirebaseWebAuth
+﻿# Firebase
 
-## Complete Firebase Web Login Tutorial
+## Login using Google, facebook, github, otp authentication using firebase
 
 
 <img src="screenshots/firebase1.PNG">.
